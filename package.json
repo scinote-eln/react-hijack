@@ -1,0 +1,15 @@
+{
+  "name": "react-hijack",
+  "version": "1.0.0",
+  "description": "A render hijacking module for React.js components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Oprea <adrian@oprea.rocks>",
+  "license": "MIT",
+  "dependencies": {
+    "react-traverse": "^0.0.3",
+    "uuid": "^3.1.0"
+  }
+}
