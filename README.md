@@ -9,13 +9,13 @@ There are no design contstraints when using the library, only a simple nuance wi
 **Import the library into the module where you want to use it:**
 
 ```js
-import { withExtras } from 'render-hijack';
+import withExtras from 'render-hijack';
 ```
 
 **Create your enhanced component:**
 
 ```js
-import { withExtras } from 'render-hijack';
+import withExtras from 'render-hijack';
 
 // ...
 const MenuWithExtras = withExtras({ screenName: 'screen1' })(Menu);
