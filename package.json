@@ -13,6 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "react": "^16.2.0",
+    "react-global-configuration": "^1.2.0",
     "react-traverse": "^0.0.3",
     "uuid": "^3.1.0"
   },
